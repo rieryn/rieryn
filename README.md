@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![](https://github.com/rieryn/rieryn/blob/main/tenor.gif)
 
 <!--
 **rieryn/rieryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
