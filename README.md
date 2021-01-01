@@ -55,7 +55,7 @@
 ![](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rieryn&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rieryn&count_private=true&show_icons=true&theme=omni&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rieryn&hide=TeX&layout=compact)
 ## 🏆 GitHub Trophies
 
