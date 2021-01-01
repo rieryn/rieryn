@@ -54,7 +54,7 @@
 ![](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
-![codepen](./src/codepen.svg)](https://aleen42.github.io/badges/src/codepen.svg)
+![codepen](https://aleen42.github.io/badges/src/codepen.svg)
 ![idea](./src/idea.svg)](https://aleen42.github.io/badges/src/idea.svg)
 ![sublime_text](./src/sublime_text.svg)](https://aleen42.github.io/badges/src/sublime_text.svg)
 ![tesla](./src/tesla.svg)]
