@@ -64,7 +64,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rieryn&hide=TeX&layout=compact)
 ## 🚀 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rieryn&theme=nord&column=7)](https://github.com/rieryn/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rieryn&theme=dracula)](https://github.com/rieryn/github-profile-trophy)
 
 
 ## 🔥 Showcase
