@@ -57,12 +57,12 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rieryn&count_private=true&show_icons=true&theme=omni&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rieryn&hide=TeX&layout=compact)
-## 🏆 GitHub Trophies
+## 🚀 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rieryn&theme=nord&column=7)](https://github.com/rieryn/github-profile-trophy)
 
 
-## ❤️ Showcase
+## 🔥 Showcase
 
 <a href="https://github.com/rieryn/endless-knight">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rieryn&repo=endless-knight&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="endless-knight" />
