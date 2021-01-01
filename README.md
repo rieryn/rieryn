@@ -54,7 +54,13 @@
 ![](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
-
+[![codepen](./src/codepen.svg)](https://aleen42.github.io/badges/src/codepen.svg)
+[![idea](./src/idea.svg)](https://aleen42.github.io/badges/src/idea.svg)
+[![sublime_text](./src/sublime_text.svg)](https://aleen42.github.io/badges/src/sublime_text.svg)
+[![tesla](./src/tesla.svg)]
+[![chelsea](./src/chelsea.svg)](https://aleen42.github.io/badges/src/chelsea.svg) 
+[![osu](./src/osu.svg)](https://aleen42.github.io/badges/src/osu.svg)
+[![after_effects](./src/after_effects.svg)](https://aleen42.github.io/badges/src/after_effects.svg)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rieryn&count_private=true&show_icons=true&theme=omni&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rieryn&hide=TeX&layout=compact)
 ## 🚀 GitHub Trophies
