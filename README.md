@@ -72,7 +72,7 @@
 <a href="https://github.com/rieryn/endless-knight">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rieryn&repo=endless-knight&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="endless-knight" />
 </a>
-<img src="https://github.com/rieryn/rieryn/blob/main/diery.png" width="800">
+<img src="https://github.com/rieryn/rieryn/blob/main/diery.png" width="600"></img>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rieryn.rieryn)
 <!--
 **rieryn/rieryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
