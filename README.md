@@ -74,7 +74,7 @@
 </a>
 <img src="https://github.com/rieryn/rieryn/blob/main/test3.gif" width="400"></img>
 
-####💮Recent work
+#### 💮Recent work
 
 <img src="https://github.com/rieryn/rieryn/blob/main/diery.png" width="400"></img>
 <img src="https://github.com/rieryn/rieryn/blob/main/cap13_4x.PNG" width="400"></img>
