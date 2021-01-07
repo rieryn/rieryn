@@ -77,7 +77,7 @@
 #### 💮Recent work
 
 <img src="https://github.com/rieryn/rieryn/blob/main/diery.png" width="400"></img>
-<img src="https://github.com/rieryn/rieryn/blob/main/13.png" ></img>
+<img src="https://github.com/rieryn/rieryn/blob/main/13.PNG" ></img>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rieryn.rieryn)
 <!--
