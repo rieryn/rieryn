@@ -1,5 +1,6 @@
 
 ![](https://github.com/rieryn/rieryn/blob/main/test2.gif)
+![Codepen](https://img.shields.io/badge/Codepen-%3CCOLOR%3E?style=social&logo=codepen&link=https://codepen.io/rieryn/pen/dypeErd&link=https://codepen.io/rieryn/pen/dypeErd)
 
 ## ✨incoming meme
 ![](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
@@ -68,7 +69,6 @@
 
 
 ## 🔥 Showcase
-![Codepen](https://img.shields.io/badge/Codepen-%3CCOLOR%3E?style=social&logo=codepen&link=https://codepen.io/rieryn/pen/dypeErd&link=https://codepen.io/rieryn/pen/dypeErd)
 <a href="https://github.com/rieryn/endless-knight">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rieryn&repo=endless-knight&show_icons=true&line_height=14&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="endless-knight" />
 </a>
