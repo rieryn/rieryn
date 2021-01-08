@@ -1,3 +1,8 @@
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
+
 | Header 1  | Header 2 | Header 3 |
 |![](https://github.com/rieryn/rieryn/blob/main/test2.gif)|
  |   <a href="https://codepen.io/rieryn/pen/dypeErd" alt="Codepen">
