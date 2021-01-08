@@ -1,6 +1,8 @@
 
 ![](https://github.com/rieryn/rieryn/blob/main/test2.gif)
 ![Codepen](https://img.shields.io/badge/Codepen-%3CCOLOR%3E?style=social&logo=codepen&link=https://codepen.io/rieryn/pen/dypeErd&link=https://codepen.io/rieryn/pen/dypeErd)
+![Codepen](https://img.shields.io/badge/Codepen-%3CCOLOR%3E?style=social&logo=codepen&link=https://codepen.io/rieryn/pen/dypeErd&link=https://codepen.io/rieryn/pen/dypeErd)
+![Codepen](https://img.shields.io/badge/Codepen-%3CCOLOR%3E?style=social&logo=codepen&link=https://codepen.io/rieryn/pen/dypeErd&link=https://codepen.io/rieryn/pen/dypeErd)
 
 ## ✨incoming meme
 ![](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
