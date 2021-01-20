@@ -1,5 +1,4 @@
 
-![](https://github.com/rieryn/rieryn/blob/main/test2.gif)
 <a href="https://codepen.io/rieryn/pen/dypeErd" alt="Codepen">
         <img src="https://img.shields.io/badge/Codepen-%3CCOLOR%3E?style=social&logo=codepen&link=https://codepen.io/rieryn/pen/dypeErd&link=https://codepen.io/rieryn/pen/dypeErd" /></a>
 
