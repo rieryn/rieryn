@@ -62,7 +62,7 @@
 ![osu](https://aleen42.github.io/badges/src/osu.svg)
 ![after_effects](https://aleen42.github.io/badges/src/after_effects.svg)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rieryn&count_private=true&show_icons=true&theme=omni&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rieryn&hide=TeX&layout=compact&theme=omni&langs_count=10    )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rieryn&hide=TeX&layout=compact&theme=omni&langs_count=20    )
 ## 🚀 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rieryn&theme=dracula)](https://github.com/rieryn/github-profile-trophy)
