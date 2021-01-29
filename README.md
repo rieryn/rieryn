@@ -63,7 +63,6 @@
 ![after_effects](https://aleen42.github.io/badges/src/after_effects.svg)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rieryn&count_private=true&show_icons=true&theme=omni&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rieryn&hide=TeX&layout=compact&theme=omni&langs_count=20    )
-[![stats](https://github-readme-stats.vercel.app/api/wakatime?username=rieryn)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 GitHub Trophies
 
