@@ -1,5 +1,5 @@
 
-<a href="https://codepen.io/rieryn/pen/dypeErd" alt="Codepen">
+<a href="https://codepen.io/rieryn/" alt="Codepen">
         <img src="https://img.shields.io/badge/Codepen-%3CCOLOR%3E?style=social&logo=codepen&link=https://codepen.io/rieryn/pen/dypeErd&link=https://codepen.io/rieryn/" /></a>
 
 ## ✨incoming meme
