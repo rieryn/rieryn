@@ -1,6 +1,6 @@
 
 <a href="https://codepen.io/rieryn/" alt="Codepen">
-        <img src="https://raw.githubusercontent.com/rieryn/rieryn/3ad5bb17d6197d5ef1ffe77f641b5531cfdcdc9c/example.svg" /></a>
+        <img src="https://raw.githubusercontent.com/rieryn/rieryn/3ad5bb17d6197d5ef1ffe77f641b5531cfdcdc9c/example.svg"  width="600"/></a>
 
 ## ✨incoming meme
 ![](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
