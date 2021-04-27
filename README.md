@@ -92,7 +92,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rieryn&repo=endless-knight&show_icons=true&line_height=14&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="endless-knight" />
 </a>
 <img src="https://github.com/rieryn/rieryn/blob/main/test3.gif" width="400"></img>
-<img src="https://raw.githubusercontent.com/rieryn/rieryn/main/utofu.png" width="700"></img>
+
+<a href="https://utofu.vercel.app/" alt="UTOFU">
+<img src="https://raw.githubusercontent.com/rieryn/rieryn/main/utofu.png" width="700"></img></a>
 
 #### 💮Recent work
 
