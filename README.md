@@ -4,6 +4,7 @@
 
 ## ✨incoming meme
 ![](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
+![](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=deno&logoColor=white)
 ![](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=flat-square&logo=blender&logoColor=white)
